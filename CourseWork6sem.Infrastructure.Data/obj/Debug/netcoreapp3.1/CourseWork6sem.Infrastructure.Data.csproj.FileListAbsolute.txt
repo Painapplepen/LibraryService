@@ -1,0 +1,5 @@
+D:\Projects vs\CourseWork6sem\CourseWork6sem.Infrastructure.Data\bin\Debug\netcoreapp3.1\CourseWork6sem.Domain.Core.dll
+D:\Projects vs\CourseWork6sem\CourseWork6sem.Infrastructure.Data\bin\Debug\netcoreapp3.1\CourseWork6sem.Domain.Interfaces.dll
+D:\Projects vs\CourseWork6sem\CourseWork6sem.Infrastructure.Data\obj\Debug\netcoreapp3.1\CourseWork6sem.Infrastructure.Data.csprojAssemblyReference.cache
+D:\Projects vs\CourseWork6sem\CourseWork6sem.Infrastructure.Data\obj\Debug\netcoreapp3.1\CourseWork6sem.Infrastructure.Data.AssemblyInfoInputs.cache
+D:\Projects vs\CourseWork6sem\CourseWork6sem.Infrastructure.Data\obj\Debug\netcoreapp3.1\CourseWork6sem.Infrastructure.Data.AssemblyInfo.cs
