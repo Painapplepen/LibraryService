@@ -9,12 +9,19 @@ namespace CourseWork6sem.Domain.Interfaces
 {
     public interface IUnitOfWork : IDisposable
     {
+        IRepository<Admin> Admins { get; }
+        
+        IRepository<Author> Authors { get; }
+        
+        IRepository<Book> Books { get; }
+        
+        IRepository<BookFound> BookFounds { get; }
+        
+        IRepository<Genre> Genres { get; }
 
-        IRepository<Admin> Comments { get; }
-        IRepository<Company> Companies { get; }
-        IRepository<VideoGame> VideoGames { get; }
-        IRepository<Order> Orders { get; }
-        IRepository<GameGenre> GameGenres { get; }
+        IRepository<Library> Libraries { get; }
+
+        IRepository<Publisher> Publishers { get; }
 
         void Save();
     }

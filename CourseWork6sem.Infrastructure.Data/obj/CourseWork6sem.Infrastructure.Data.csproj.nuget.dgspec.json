@@ -150,6 +150,9 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
+              "D:\\Projects vs\\CourseWork6sem\\CourseWork6sem.Domain.Core\\CourseWork6sem.Domain.Core.csproj": {
+                "projectPath": "D:\\Projects vs\\CourseWork6sem\\CourseWork6sem.Domain.Core\\CourseWork6sem.Domain.Core.csproj"
+              },
               "D:\\Projects vs\\CourseWork6sem\\CourseWork6sem.Domain.Interfaces\\CourseWork6sem.Domain.Interfaces.csproj": {
                 "projectPath": "D:\\Projects vs\\CourseWork6sem\\CourseWork6sem.Domain.Interfaces\\CourseWork6sem.Domain.Interfaces.csproj"
               }
@@ -166,6 +169,10 @@
         "netcoreapp3.1": {
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[5.0.2, )"
             }
