@@ -3,3 +3,12 @@ D:\Projects vs\CourseWork6sem\CourseWork6sem.Infrastructure.Data\bin\Debug\netco
 D:\Projects vs\CourseWork6sem\CourseWork6sem.Infrastructure.Data\obj\Debug\netcoreapp3.1\CourseWork6sem.Infrastructure.Data.csprojAssemblyReference.cache
 D:\Projects vs\CourseWork6sem\CourseWork6sem.Infrastructure.Data\obj\Debug\netcoreapp3.1\CourseWork6sem.Infrastructure.Data.AssemblyInfoInputs.cache
 D:\Projects vs\CourseWork6sem\CourseWork6sem.Infrastructure.Data\obj\Debug\netcoreapp3.1\CourseWork6sem.Infrastructure.Data.AssemblyInfo.cs
+D:\Projects vs\CourseWork6sem\CourseWork6sem.Infrastructure.Data\bin\Debug\netcoreapp3.1\CourseWork6sem.Infrastructure.Data.deps.json
+D:\Projects vs\CourseWork6sem\CourseWork6sem.Infrastructure.Data\bin\Debug\netcoreapp3.1\CourseWork6sem.Infrastructure.Data.dll
+D:\Projects vs\CourseWork6sem\CourseWork6sem.Infrastructure.Data\bin\Debug\netcoreapp3.1\CourseWork6sem.Infrastructure.Data.pdb
+D:\Projects vs\CourseWork6sem\CourseWork6sem.Infrastructure.Data\bin\Debug\netcoreapp3.1\CourseWork6sem.Domain.Core.pdb
+D:\Projects vs\CourseWork6sem\CourseWork6sem.Infrastructure.Data\bin\Debug\netcoreapp3.1\CourseWork6sem.Domain.Interfaces.pdb
+D:\Projects vs\CourseWork6sem\CourseWork6sem.Infrastructure.Data\obj\Debug\netcoreapp3.1\CourseWork6sem.Infrastructure.Data.csproj.CoreCompileInputs.cache
+D:\Projects vs\CourseWork6sem\CourseWork6sem.Infrastructure.Data\obj\Debug\netcoreapp3.1\CourseWork6sem.Infrastructure.Data.csproj.CopyComplete
+D:\Projects vs\CourseWork6sem\CourseWork6sem.Infrastructure.Data\obj\Debug\netcoreapp3.1\CourseWork6sem.Infrastructure.Data.dll
+D:\Projects vs\CourseWork6sem\CourseWork6sem.Infrastructure.Data\obj\Debug\netcoreapp3.1\CourseWork6sem.Infrastructure.Data.pdb

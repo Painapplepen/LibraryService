@@ -8,6 +8,9 @@ namespace CourseWork6sem.Domain.Core.Entities
 {
     public class Genre
     {
-        
+
+        public long Id { get; set; }
+
+        public string GenreOfBook { get; set; }
     }
 }
